@@ -1,0 +1,50 @@
+.grid-container {
+    display: grid;
+    column-gap: 50px;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 20px;
+}
+
+.grid-container {
+    display: grid;
+    row-gap: 50px;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 20px;
+}
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#yellow{
+    color: yellow;
+}
+#green{
+    color: green;
+}
+#blue{
+    color: blue;
+}
+#pink{
+    color: pink;
+}
+#red{
+    color: red;
+}
+#orange{
+    color: orange;
+}
+#purple{
+    color: purple;
+}
+#brown{
+    color: brown;
+}
+#grey{
+    color: gray;
+}
